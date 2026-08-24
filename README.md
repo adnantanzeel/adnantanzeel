@@ -113,7 +113,7 @@ Learn → Build → Test → Improve
 
 ### Tools & Platforms
 
-`Git` `GitHub` `VS Code` `Postman` `Docker` `Vercel`
+`Git` `GitHub` `VS Code` `Postman`  `Vercel`
 
 ### AI / Intelligent Systems
 
@@ -128,8 +128,6 @@ Learn → Build → Test → Improve
 | 🎯 **Career Viz**                       | Career visualization platform designed to help students explore suitable career paths             | React • JavaScript • MongoDB |
 | 📄 **Intelligent PDF Report Generator** | Extracts information from documents and generates structured reports using intelligent processing | React • Python • Flask • OCR |
 | 🤖 **BotAI**                            | AI-powered website chatbot concept using website crawling, indexing and RAG                       | React • FastAPI • RAG        |
-| 🧾 **AI Ledger**                        | Intelligent billing and business-management concept for invoices and GST workflows                | AI • Web • Database          |
-| 🔍 **Smart Contract Auditor**           | AI-assisted concept for analyzing smart contracts and identifying potential issues                | AI • Security • Web          |
 
 ---
 
@@ -160,8 +158,7 @@ Learn → Build → Test → Improve
 * 🗄️ MySQL & Database Design
 * 🤖 AI & RAG-based Applications
 * 🐍 Python for Automation & AI
-* 🔧 Git & Advanced Development Workflows
-* 🐳 Docker & Deployment
+
 
 ---
 
