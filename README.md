@@ -1,9 +1,3 @@
-<!-- ================================ --> 
-
-<!--        ADNAN TANZEEL PROFILE     -->
-
-<!-- ================================ -->
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:1a0033,35:4a0072,65:7b2cbf,100:e0aaff&text=ADNAN%20TANZEEL&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Builder%20%7C%20Tech%20Explorer&descAlignY=60&descSize=16"/>
 </p>
