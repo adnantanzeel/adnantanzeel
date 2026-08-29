@@ -91,7 +91,7 @@ Learn → Build → Test → Improve
 
 ---
 
-# ⚡ Tech Stack
+
 
 # ⚡ Tech Stack
 
@@ -103,6 +103,7 @@ Learn → Build → Test → Improve
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/>
 </p>
+
 ### Backend
 
 `Java` `Spring Boot` `REST API` `Python` `Flask` `FastAPI`
