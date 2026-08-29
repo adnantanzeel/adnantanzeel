@@ -96,21 +96,13 @@ Learn → Build → Test → Improve
 # ⚡ Tech Stack
 
 <p align="center">
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <img src="https://skillicons.dev/icons?i=java" height="50"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" height="50"/>
-  <img src="https://skillicons.dev/icons?i=js" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-</marquee>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/>
 </p>
-
 ### Backend
 
 `Java` `Spring Boot` `REST API` `Python` `Flask` `FastAPI`
