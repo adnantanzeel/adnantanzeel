@@ -93,10 +93,22 @@ Learn → Build → Test → Improve
 
 # ⚡ Tech Stack
 
+# ⚡ Tech Stack
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,mysql,html,css,git,github,vscode&theme=dark"/>
-
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</marquee>
 </p>
 
 ### Backend
