@@ -205,25 +205,10 @@ Learn → Build → Test → Improve
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnantanzeel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adnantanzeel&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 🎓 Education
 
